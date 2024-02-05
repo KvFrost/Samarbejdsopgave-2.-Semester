@@ -2,6 +2,9 @@ html {
     background-color: blue;
 }
 
-h1 {
+.h1 {
     color: white;
+}
+.img{
+    width: 600px;
 }
